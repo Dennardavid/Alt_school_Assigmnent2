@@ -91,6 +91,9 @@ select {
 input:focus {
   border: 1px solid var(--cl-greendark);
 }
+select:hover {
+  border: 1px solid var(--cl-greendark);
+}
 button {
   width: 100%;
   border: none;
